@@ -14,4 +14,3 @@ File descriptions:
 > 6. NN.r -> This script implements the NN model for training the data.
 > 7. SARIMA.r -> This script implements the Seasonal ARIMA model for training the data.
 
-# ait-582
